@@ -54,7 +54,7 @@ The original Pytorch model can be found in this repository: https://github.com/h
  ```
  ![!CREStereo depth estimation](https://github.com/ibaiGorordo/ONNX-TopFormer-Semantic-Segmentation/blob/main/doc/img/topformer.gif)
   
- *Original video: https://youtu.be/yWHdkK5j4yk
+ *Original video: https://youtu.be/yWHdkK5j4yk*
 
 # References:
 * TopFormer model: https://github.com/hustvl/TopFormer
